@@ -3,7 +3,7 @@ const nextConfig = {
   reactStrictMode: true,
   swcMinify: true,
   images:{
-    domains: ["press.hulu.com","image.tmdb.org"]
+    domains: ["press.hulu.com","image.tmdb.org","image.tmbd.org"]
   }
 }
 
